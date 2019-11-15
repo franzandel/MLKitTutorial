@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "951405881471",
+    "firebase_url": "https://mlkittutorial-56252.firebaseio.com",
+    "project_id": "mlkittutorial-56252",
+    "storage_bucket": "mlkittutorial-56252.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951405881471:android:d96432ba1ff9e8b9daf74a",
+        "android_client_info": {
+          "package_name": "com.tunaikumobile.mlkittutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951405881471-72v44kn5fbjh1d15auj8lk9qpf69q3a4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tunaikumobile.mlkittutorial",
+            "certificate_hash": "60ccb23d82255f9404432724a13e2302941b76a7"
+          }
+        },
+        {
+          "client_id": "951405881471-qb2204360cvisq3052benfhi0sa0qd39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF3vwiAYasMGo4VSOE59OGF-BW9elTYho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951405881471-qb2204360cvisq3052benfhi0sa0qd39.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
